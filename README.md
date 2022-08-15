@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KairiMiranda
 - 🎮 Gamer and geek since I remember 
 - 🌱 I’m currently learning HTML, CSS and JavaScript (pure basis if you want to call it that way)
-- 📫 You can reach me through my social media accounts.
 
 <!---
 KairiMiranda/KairiMiranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
