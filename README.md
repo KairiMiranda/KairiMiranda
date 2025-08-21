@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KairiMiranda
+- 👋 Hi, I’m Paulina
 - 🎮 Gamer and geek since I remember 
 - 🌱 I’m currently learning HTML, CSS and JavaScript (pure basis if you want to call it that way)
 
